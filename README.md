@@ -14,3 +14,8 @@ index.html内のimgタグをコピーして増やして行って下さい。
    　<img class="card-img" src="thumbnail/no1.jpg" />
    </div> 
 ```
+
+追加する写真はサムネイルをimg/thumbnailのディレクトリに。
+フル解像度の写真はimgのディレクトリに追加してください。
+
+
